@@ -86,16 +86,35 @@ paths. Submit the sitemap in Google Search Console after deployment.
 
 ### Google Search Console
 
-Register `https://cigncloud.github.io/kikoo-website/` as a URL-prefix property,
-submit `/sitemap.xml`, and use URL Inspection for the home, support, privacy,
-and terms pages. Search Console is needed to see crawl and indexing problems;
-adding a sitemap does not guarantee indexing or ranking.
+Google Search Console registration is not required for a GitHub Pages site to
+be crawled, and it is not an App Store Connect review requirement. It is
+recommended for monitoring Google crawling and search visibility.
+
+Register the exact URL below as a **URL-prefix property**:
+
+```text
+https://cigncloud.github.io/kikoo-website/
+```
+
+Recommended setup sequence:
+
+1. Open [Google Search Console](https://search.google.com/search-console) and add the URL-prefix property above.
+2. Verify ownership with the HTML file method or an HTML meta tag. For GitHub Pages, an HTML verification file committed to the `website/` repository root is usually simplest.
+3. Deploy `robots.txt` and `sitemap.xml` first. The current site still returns 404 for both files.
+4. Submit `https://cigncloud.github.io/kikoo-website/sitemap.xml` under **Sitemaps**.
+5. Use **URL Inspection** for the home, support, privacy, and terms pages and request indexing for important new pages.
+
+Search Console shows crawl, indexing, search queries, impressions, and errors;
+registration, sitemap submission, or an indexing request does not guarantee
+indexing or ranking.
 
 Official references:
 
 - [Localized versions of your page](https://developers.google.com/search/docs/specialty/international/localized-versions)
 - [Build and submit a sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
 - [robots.txt introduction](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+- [How to use Search Console](https://developers.google.com/search/docs/monitor-debug/search-console-start)
+- [Verify your site ownership](https://support.google.com/webmasters/answer/9008080)
 - [GitHub Pages documentation](https://docs.github.com/en/pages)
 
 ## SEO TODO
@@ -110,7 +129,7 @@ Official references:
 - [ ] Add reciprocal `hreflang` and self-canonical links after each translation is live.
 - [ ] Translate page titles, descriptions, headings, navigation, and image alt text.
 - [ ] Review translated privacy and terms pages for legal and data-processing consistency.
-- [ ] Register the GitHub Pages URL in Google Search Console.
+- [ ] Verify the URL-prefix property `https://cigncloud.github.io/kikoo-website/` in Google Search Console.
 - [ ] Submit `sitemap.xml` and inspect representative URLs after deployment.
 - [ ] Recheck all sitemap URLs and language links with HTTP 200 checks after every release.
 
