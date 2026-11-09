@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cigncloud.github.io/kikoo-website/sitemap.xml
