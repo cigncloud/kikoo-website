@@ -11,7 +11,7 @@
 | 개인정보 처리방침 URL | https://cigncloud.github.io/kikoo-website/privacy.html |
 | 서비스 이용약관 | https://cigncloud.github.io/kikoo-website/terms.html |
 
-문의처: `cigncloud@gmail.com`. 기존 공개 운영자 표시인 Cigncloud를 유지합니다.
+문의처: 인스타그램 [@kikioo_selfie_club](https://www.instagram.com/kikioo_selfie_club/) DM. 기존 공개 운영자 표시인 Cigncloud를 유지합니다.
 
 ## 편집·미리보기
 
@@ -25,7 +25,7 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 `http://127.0.0.1:4173/`에서 확인합니다. 빌드는 Node.js 내장 모듈만 사용하며 의존성 설치가 없습니다. 생성된 `index.html`, `privacy.html`, `support.html`, `terms.html`, `robots.txt`, `sitemap.xml`을 함께 커밋해야 합니다. 생성된 HTML에 문구를 직접 수정하면 다음 빌드 때 덮어쓰므로 원본 JSON을 수정하세요.
 
-FAQ는 브라우저 기본 `details`/`summary`를 사용합니다. JavaScript, 외부 폰트 요청, 광고·분석 스크립트, 서버 전송 폼은 없습니다. 연락은 `mailto:`로 사용자의 이메일 앱을 엽니다. 화면 확대는 별도 스크린샷 이미지 링크입니다.
+FAQ는 브라우저 기본 `details`/`summary`를 사용합니다. JavaScript, 외부 폰트 요청, 광고·분석 스크립트, 서버 전송 폼은 없습니다. 문의 버튼은 인스타그램 `@kikioo_selfie_club` 프로필로 연결하며, 사용자가 직접 DM을 보냅니다. 화면 확대는 별도 스크린샷 이미지 링크입니다.
 
 ## 다국어 추가
 
