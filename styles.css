@@ -30,9 +30,12 @@ section[id] { scroll-margin-top: 32px; }
 .site-nav { display: flex; gap: 28px; margin-left: auto; }
 .site-nav a { font-size: 13px; font-weight: 600; text-decoration: none; padding-block: 12px; }
 [aria-current="page"] { color: var(--pink); text-decoration: underline !important; }
-.language { flex-shrink: 0; border: 1px solid var(--line); border-radius: 9999px; padding: 5px 12px; font-size: 12px; }
-.language span { font-size: 16px; padding-right: 4px; }
-.language-links { display: flex; gap: 12px; font-size: 12px; }
+.language-switcher { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; border: 1px solid var(--line); border-radius: 9999px; padding: 5px 10px 5px 12px; background: var(--white); color: var(--ink); font-size: 12px; }
+.language-switcher:focus-within { outline: 3px solid var(--pink); outline-offset: 4px; }
+.language-mark { font-size: 16px; line-height: 1; }
+.language-select { min-width: 78px; border: 0; background: transparent; color: inherit; font: inherit; font-size: 12px; cursor: pointer; }
+.language-select:focus { outline: none; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 32px; min-height: 700px; padding-block: 56px 72px; }
 .pill { display: inline-flex; gap: 8px; align-items: center; background: var(--pink-soft); border: 1px solid var(--pink-line); border-radius: 9999px; padding: 5px 16px; }
 .pill span { font-size: 19px; }
@@ -186,7 +189,7 @@ section[id] { scroll-margin-top: 32px; }
   .section-space { padding-block: 72px; }
   .site-header { flex-wrap: wrap; min-height: auto; padding-block: 20px 12px; gap: 16px; }
   .site-header .brand { order: 0; }
-  .language, .language-links { margin-left: auto; order: 1; }
+  .language-switcher { margin-left: auto; order: 1; }
   .site-nav { order: 2; width: 100%; justify-content: space-between; gap: 16px; }
   .site-nav a { font-size: 12px; }
   .hero { grid-template-columns: 1fr; text-align: center; padding-block: 48px 32px; gap: 24px; }
@@ -216,7 +219,8 @@ section[id] { scroll-margin-top: 32px; }
   .wordmark { font-size: 22px; }
   .site-header { gap: 12px; }
   .site-header .brand { gap: 8px; }
-  .language { padding-inline: 10px; font-size: 11px; }
+  .language-switcher { padding-inline: 10px; font-size: 11px; }
+  .language-select { min-width: 70px; font-size: 11px; }
   .brand img { width: 40px; height: 40px; }
   .site-nav { gap: 8px; }
   .site-nav a { font-size: 11px; padding-block: 8px; }

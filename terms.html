@@ -48,11 +48,15 @@
 <a href="privacy.html">사진과 개인정보</a>
 <a href="support.html">고객지원</a>
 </nav>
-<nav class="language-links" aria-label="현재 언어">
-<a href="https://cigncloud.github.io/kikoo-website/terms.html" lang="ko" aria-current="true">한국어</a>
-<a href="https://cigncloud.github.io/kikoo-website/en/terms.html" lang="en" >English</a>
-<a href="https://cigncloud.github.io/kikoo-website/ja/terms.html" lang="ja" >日本語</a>
-</nav>
+<label class="language-switcher">
+<span class="language-mark" aria-hidden="true">◎</span>
+<span class="sr-only">현재 언어</span>
+<select class="language-select" aria-label="현재 언어" onchange="window.location.href=this.value">
+<option value="https://cigncloud.github.io/kikoo-website/terms.html" selected>한국어</option>
+<option value="https://cigncloud.github.io/kikoo-website/en/terms.html">English</option>
+<option value="https://cigncloud.github.io/kikoo-website/ja/terms.html">日本語</option>
+</select>
+</label>
       </header>
 <main id="main" class="wrap document-page">
 <div class="document-intro">

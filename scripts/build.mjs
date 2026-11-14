@@ -47,8 +47,8 @@ for (const locale of config.locales) {
     const t = text[page];
     const current = (key) => key === page ? ' aria-current="page"' : '';
     const langLinks = config.locales.length === 1
-      ? `<span class="language" aria-label="${escape(c.languageLabel)}"><span aria-hidden="true">◎</span> ${escape(locale.label)}</span>`
-      : `<nav class="language-links" aria-label="${escape(c.languageLabel)}">${config.locales.map((l) => `<a href="${destination(l, page)}" lang="${l.lang}" ${l.code === locale.code ? 'aria-current="true"' : ''}>${escape(l.label)}</a>`).join('')}</nav>`;
+      ? `<span class="language-switcher" aria-label="${escape(c.languageLabel)}"><span class="language-mark" aria-hidden="true">◎</span><span>${escape(locale.label)}</span></span>`
+      : `<label class="language-switcher"><span class="language-mark" aria-hidden="true">◎</span><span class="sr-only">${escape(c.languageLabel)}</span><select class="language-select" aria-label="${escape(c.languageLabel)}" onchange="window.location.href=this.value">${config.locales.map((l) => `<option value="${destination(l, page)}"${l.code === locale.code ? ' selected' : ''}>${escape(l.label)}</option>`).join('')}</select></label>`;
     const header = `<a class="skip-link" href="#main">${escape(c.skip)}</a>
       <header class="site-header wrap">
         <a class="brand" href="${href('home')}" aria-label="${escape(c.home)}"><img src="${asset('kikoo-icon-small.png')}" width="48" height="48" alt=""><span class="wordmark">${escape(c.brandName)}</span></a>
