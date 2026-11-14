@@ -15,12 +15,14 @@
 <link rel="alternate" hreflang="ko" href="https://cigncloud.github.io/kikoo-website/terms.html">
 <link rel="alternate" hreflang="en" href="https://cigncloud.github.io/kikoo-website/en/terms.html">
 <link rel="alternate" hreflang="ja" href="https://cigncloud.github.io/kikoo-website/ja/terms.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://cigncloud.github.io/kikoo-website/zh-Hans/terms.html">
 <link rel="alternate" hreflang="x-default" href="https://cigncloud.github.io/kikoo-website/terms.html">
 <link rel="sitemap" type="application/xml" href="https://cigncloud.github.io/kikoo-website/sitemap.xml">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ja_JP">
 <meta property="og:locale:alternate" content="ko_KR">
 <meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="Kikoo Selfie Club">
 <meta property="og:title" content="利用規約 | Kikoo">
 <meta property="og:description" content="Kikooアプリの利用、写真や作品、コイン、アプリ内課金、返金、サポートに関する利用規約です。">
@@ -51,10 +53,11 @@
 <label class="language-switcher">
 <span class="language-mark" aria-hidden="true">◎</span>
 <span class="sr-only">言語</span>
-<select class="language-select" aria-label="言語" onchange="window.location.href=this.value">
-<option value="https://cigncloud.github.io/kikoo-website/terms.html">한국어</option>
-<option value="https://cigncloud.github.io/kikoo-website/en/terms.html">English</option>
-<option value="https://cigncloud.github.io/kikoo-website/ja/terms.html" selected>日本語</option>
+<select class="language-select" aria-label="言語" onchange="try{localStorage.setItem('kikoo-language',this.options[this.selectedIndex].dataset.locale)}catch(e){}window.location.href=this.value">
+<option value="https://cigncloud.github.io/kikoo-website/terms.html" data-locale="ko">한국어</option>
+<option value="https://cigncloud.github.io/kikoo-website/en/terms.html" data-locale="en">English</option>
+<option value="https://cigncloud.github.io/kikoo-website/ja/terms.html" data-locale="ja" selected>日本語</option>
+<option value="https://cigncloud.github.io/kikoo-website/zh-Hans/terms.html" data-locale="zh-Hans">简体中文</option>
 </select>
 </label>
       </header>

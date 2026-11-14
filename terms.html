@@ -15,12 +15,14 @@
 <link rel="alternate" hreflang="ko" href="https://cigncloud.github.io/kikoo-website/terms.html">
 <link rel="alternate" hreflang="en" href="https://cigncloud.github.io/kikoo-website/en/terms.html">
 <link rel="alternate" hreflang="ja" href="https://cigncloud.github.io/kikoo-website/ja/terms.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://cigncloud.github.io/kikoo-website/zh-Hans/terms.html">
 <link rel="alternate" hreflang="x-default" href="https://cigncloud.github.io/kikoo-website/terms.html">
 <link rel="sitemap" type="application/xml" href="https://cigncloud.github.io/kikoo-website/sitemap.xml">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:locale:alternate" content="en_US">
 <meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="Kikoo Selfie Club">
 <meta property="og:title" content="이용약관 | 키쿠 Kikoo">
 <meta property="og:description" content="키쿠 앱의 이용, 사진과 창작물, 코인, 앱 내 구입, 환불 및 고객지원에 관한 이용약관입니다.">
@@ -33,6 +35,7 @@
 <meta name="apple-itunes-app" content="app-id=6830932635">
 <link rel="icon" href="assets/kikoo-icon-small.png" type="image/png">
 <link rel="stylesheet" href="styles.css">
+<script>(function(){const destinations={"ko":"https://cigncloud.github.io/kikoo-website/terms.html","en":"https://cigncloud.github.io/kikoo-website/en/terms.html","ja":"https://cigncloud.github.io/kikoo-website/ja/terms.html","zh-Hans":"https://cigncloud.github.io/kikoo-website/zh-Hans/terms.html"};if(/bot|crawler|spider|crawling|slurp|bingpreview|facebookexternalhit|twitterbot|linkedinbot|applebot/i.test(navigator.userAgent||''))return;let saved='';try{saved=localStorage.getItem('kikoo-language')||''}catch(e){}if(saved){if(saved!=="ko"&&destinations[saved])window.location.replace(destinations[saved]);return}const languages=[...(navigator.languages||[]),navigator.language||''];for(const raw of languages){const language=String(raw).toLowerCase();let code='';if(language==='ko'||language.startsWith('ko-'))code='ko';else if(language==='en'||language.startsWith('en-'))code='en';else if(language==='ja'||language.startsWith('ja-'))code='ja';else if(language==='zh'||language==='zh-hans'||language.startsWith('zh-cn')||language.startsWith('zh-sg')||language.startsWith('zh-my'))code='zh-Hans';if(code&&code!=="ko"&&destinations[code]){window.location.replace(destinations[code]);break}}})();</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://cigncloud.github.io/kikoo-website/#organization","name":"Cigncloud","url":"https://cigncloud.github.io/kikoo-website/","logo":"https://cigncloud.github.io/kikoo-website/assets/kikoo-icon.png","sameAs":["https://www.instagram.com/kikioo_selfie_club/"]},{"@type":"WebSite","@id":"https://cigncloud.github.io/kikoo-website/#website","name":"Kikoo Selfie Club","url":"https://cigncloud.github.io/kikoo-website/","publisher":{"@id":"https://cigncloud.github.io/kikoo-website/#organization"},"inLanguage":"ko"},{"@type":"WebPage","@id":"https://cigncloud.github.io/kikoo-website/terms.html#webpage","name":"이용약관 | 키쿠 Kikoo","description":"키쿠 앱의 이용, 사진과 창작물, 코인, 앱 내 구입, 환불 및 고객지원에 관한 이용약관입니다.","url":"https://cigncloud.github.io/kikoo-website/terms.html","inLanguage":"ko","dateModified":"2026-11-14","isPartOf":{"@id":"https://cigncloud.github.io/kikoo-website/#website"},"publisher":{"@id":"https://cigncloud.github.io/kikoo-website/#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"키쿠 Kikoo — 내 손안의 귀여운 포토부스","item":"https://cigncloud.github.io/kikoo-website/"},{"@type":"ListItem","position":2,"name":"이용약관 | 키쿠 Kikoo","item":"https://cigncloud.github.io/kikoo-website/terms.html"}]}]}</script>
 </head>
 <body>
@@ -51,10 +54,11 @@
 <label class="language-switcher">
 <span class="language-mark" aria-hidden="true">◎</span>
 <span class="sr-only">현재 언어</span>
-<select class="language-select" aria-label="현재 언어" onchange="window.location.href=this.value">
-<option value="https://cigncloud.github.io/kikoo-website/terms.html" selected>한국어</option>
-<option value="https://cigncloud.github.io/kikoo-website/en/terms.html">English</option>
-<option value="https://cigncloud.github.io/kikoo-website/ja/terms.html">日本語</option>
+<select class="language-select" aria-label="현재 언어" onchange="try{localStorage.setItem('kikoo-language',this.options[this.selectedIndex].dataset.locale)}catch(e){}window.location.href=this.value">
+<option value="https://cigncloud.github.io/kikoo-website/terms.html" data-locale="ko" selected>한국어</option>
+<option value="https://cigncloud.github.io/kikoo-website/en/terms.html" data-locale="en">English</option>
+<option value="https://cigncloud.github.io/kikoo-website/ja/terms.html" data-locale="ja">日本語</option>
+<option value="https://cigncloud.github.io/kikoo-website/zh-Hans/terms.html" data-locale="zh-Hans">简体中文</option>
 </select>
 </label>
       </header>

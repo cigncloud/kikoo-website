@@ -15,12 +15,14 @@
 <link rel="alternate" hreflang="ko" href="https://cigncloud.github.io/kikoo-website/privacy.html">
 <link rel="alternate" hreflang="en" href="https://cigncloud.github.io/kikoo-website/en/privacy.html">
 <link rel="alternate" hreflang="ja" href="https://cigncloud.github.io/kikoo-website/ja/privacy.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://cigncloud.github.io/kikoo-website/zh-Hans/privacy.html">
 <link rel="alternate" hreflang="x-default" href="https://cigncloud.github.io/kikoo-website/privacy.html">
 <link rel="sitemap" type="application/xml" href="https://cigncloud.github.io/kikoo-website/sitemap.xml">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:locale:alternate" content="ko_KR">
 <meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:locale:alternate" content="zh_CN">
 <meta property="og:site_name" content="Kikoo Selfie Club">
 <meta property="og:title" content="Privacy Policy | Kikoo">
 <meta property="og:description" content="Kikoo does not send user images, photos, or videos to the cloud. Learn what basic account, purchase, and coin information is used to operate the service and about your privacy rights.">
@@ -51,10 +53,11 @@
 <label class="language-switcher">
 <span class="language-mark" aria-hidden="true">◎</span>
 <span class="sr-only">Language</span>
-<select class="language-select" aria-label="Language" onchange="window.location.href=this.value">
-<option value="https://cigncloud.github.io/kikoo-website/privacy.html">한국어</option>
-<option value="https://cigncloud.github.io/kikoo-website/en/privacy.html" selected>English</option>
-<option value="https://cigncloud.github.io/kikoo-website/ja/privacy.html">日本語</option>
+<select class="language-select" aria-label="Language" onchange="try{localStorage.setItem('kikoo-language',this.options[this.selectedIndex].dataset.locale)}catch(e){}window.location.href=this.value">
+<option value="https://cigncloud.github.io/kikoo-website/privacy.html" data-locale="ko">한국어</option>
+<option value="https://cigncloud.github.io/kikoo-website/en/privacy.html" data-locale="en" selected>English</option>
+<option value="https://cigncloud.github.io/kikoo-website/ja/privacy.html" data-locale="ja">日本語</option>
+<option value="https://cigncloud.github.io/kikoo-website/zh-Hans/privacy.html" data-locale="zh-Hans">简体中文</option>
 </select>
 </label>
       </header>

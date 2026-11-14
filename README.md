@@ -1,6 +1,6 @@
 # 키쿠 웹사이트
 
-앱스토어의 마케팅 URL, 고객지원 URL, 개인정보 처리방침 URL로 사용하는 정적 사이트입니다. 한국어를 기본 언어로 제공하며 영어와 일본어 번역을 함께 제공합니다. GitHub Pages는 생성된 HTML을 그대로 제공하므로 배포 서버에 Node.js나 별도 빌드 설정이 필요하지 않습니다.
+앱스토어의 마케팅 URL, 고객지원 URL, 개인정보 처리방침 URL로 사용하는 정적 사이트입니다. 한국어를 기본 언어로 제공하며 영어·일본어·간체 중국어 번역을 함께 제공합니다. GitHub Pages는 생성된 HTML을 그대로 제공하므로 배포 서버에 Node.js나 별도 빌드 설정이 필요하지 않습니다.
 
 ## 공개 링크
 
@@ -16,7 +16,7 @@
 ## 편집·미리보기
 
 ```sh
-# 문구: locales/ko.json, locales/en.json, locales/ja.json
+# 문구: locales/ko.json, locales/en.json, locales/ja.json, locales/zh-Hans.json
 # 디자인: styles.css
 # 운영자·공개 URL·언어 목록: site.config.mjs
 node scripts/build.mjs
@@ -42,7 +42,7 @@ FAQ는 브라우저 기본 `details`/`summary`를 사용합니다. JavaScript, �
 4. 번역한 스크린샷이 있으면 언어 항목의 `screenshots`에 다섯 이미지 이름을 지정할 수 있습니다. 각 이름에 대해 `assets/screenshots/{이름}-480.webp`, `{이름}-720.webp`를 준비합니다. 지정하지 않으면 기존 앱스토어 한국어 스크린샷을 사용합니다.
 5. 새 언어 URL의 HTTP 200, 링크와 레이아웃을 확인하고 공개합니다. 준비 중인 언어를 목록에 먼저 넣지 마세요.
 
-한국어 기본 페이지는 기존 App Store Connect 주소와 호환되는 루트(`/`)에 유지합니다. 영어는 `/en/`, 일본어는 `/ja/`에서 제공하며 브라우저 언어로 강제 이동하지 않습니다. 홈 페이지에는 언어별 App Store 링크와 접근 가능한 App Store 배지를 표시합니다. 한국어 링크는 한국 App Store 주소를 사용하고, 영어와 일본어 링크는 각 스토어 지역의 앱 페이지를 사용합니다.
+한국어 기본 페이지는 기존 App Store Connect 주소와 호환되는 루트(`/`)에 유지합니다. 영어는 `/en/`, 일본어는 `/ja/`, 간체 중국어는 `/zh-Hans/`에서 제공합니다. 루트와 한국어 문서 페이지는 검색 크롤러의 정적 HTML·canonical·hreflang을 유지하면서 브라우저 언어가 지원되는 경우 해당 언어 페이지로 자동 이동합니다. 사용자가 드롭다운에서 언어를 선택하면 그 선택을 저장해 자동 이동을 멈춥니다. 홈 페이지에는 언어별 App Store 링크와 접근 가능한 App Store 배지를 표시합니다. 한국어 링크는 한국 App Store 주소를 사용하고, 영어·일본어·간체 중국어 링크는 각 스토어 지역의 앱 페이지를 사용합니다.
 
 ## 사진·개인정보 문구 유지 원칙
 
