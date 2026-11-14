@@ -3,6 +3,7 @@
 * { box-sizing: border-box; }
 html { scroll-padding-top: 32px; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.8 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; word-break: keep-all; overflow-wrap: anywhere; }
+body:lang(en), body:lang(ja) { word-break: normal; }
 img { display: block; max-width: 100%; height: auto; }
 svg { display: inline-block; width: 32px; height: 32px; vertical-align: middle; }
 a { color: inherit; text-underline-offset: 5px; }
@@ -40,6 +41,9 @@ section[id] { scroll-margin-top: 32px; }
 .hero-intro { font-size: 16px; color: var(--muted); margin-top: 24px; }
 .hero-tag { display: inline-block; font-size: 12px; font-weight: 600; margin-top: 24px; padding-bottom: 4px; border-bottom: 1px dashed var(--pink-line); }
 .hero-actions { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 20px 24px; align-items: center; }
+.app-store-badge { display: inline-flex; align-items: center; border-radius: 7px; line-height: 0; text-decoration: none; transition: transform .2s ease; }
+.app-store-badge:hover { color: inherit; transform: translateY(-2px); }
+.app-store-badge img { width: auto; height: 54px; max-width: min(100%, 176px); }
 .privacy-shortcut { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; text-decoration: none; }
 .privacy-shortcut svg { width: 20px; height: 20px; color: var(--pink); }
 .hero-collage { height: 560px; position: relative; max-width: 580px; width: 100%; margin-inline: auto; }

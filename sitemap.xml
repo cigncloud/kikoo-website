@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cigncloud.github.io/kikoo-website/</loc><lastmod>2026-11-09</lastmod></url>
-  <url><loc>https://cigncloud.github.io/kikoo-website/privacy.html</loc><lastmod>2026-11-09</lastmod></url>
-  <url><loc>https://cigncloud.github.io/kikoo-website/support.html</loc><lastmod>2026-11-09</lastmod></url>
-  <url><loc>https://cigncloud.github.io/kikoo-website/terms.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/privacy.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/support.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/terms.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/en/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/en/privacy.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/en/support.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/en/terms.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/ja/</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/ja/privacy.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/ja/support.html</loc><lastmod>2026-11-14</lastmod></url>
+  <url><loc>https://cigncloud.github.io/kikoo-website/ja/terms.html</loc><lastmod>2026-11-14</lastmod></url>
 </urlset>

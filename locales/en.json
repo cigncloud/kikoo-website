@@ -1,0 +1,137 @@
+{
+  "common": {
+    "brandName": "Kikoo Selfie Club",
+    "skip": "Skip to main content",
+    "home": "Kikoo home",
+    "nav": ["About Kikoo", "Five ways to play", "Photos & privacy", "Support"],
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "terms": "Terms of Use",
+    "footerNote": "Little moments, made a little more Kikoo.",
+    "languageLabel": "Language",
+    "updated": "Effective November 9, 2026",
+    "backHome": "Back to Kikoo",
+    "contact": "Contact us",
+    "toc": "On this page",
+    "screenLink": "View screenshot larger",
+    "screenNote": "These are real Kikoo app screens. Select an image to view it larger."
+  },
+  "home": {
+    "title": "Kikoo — Your cute little photo booth",
+    "description": "Try selfie challenges and four photo booths with Kikoo. Take photos, decorate them, and keep your favorites. Your photos and videos stay on your device and are not sent to Kikoo's cloud.",
+    "eyebrow": "A little photo booth in your pocket",
+    "heading": ["A little more", "cute, every day."],
+    "intro": "For the ordinary days and the ones we share.\nSnap a photo, decorate it your way, and keep a little moment of your own.",
+    "heroTag": "Selfie challenges + 4 photo booths",
+    "primary": "Explore Kikoo",
+    "secondary": "Your photos stay on your device",
+    "appStorePrompt": "Download on the",
+    "appStoreName": "App Store",
+    "appStoreLabel": "Download Kikoo Selfie Club on the App Store",
+    "collageLabel": "Real app screens from Stamp Story, Kira Pop, and Pure Day",
+    "collageNote": "Just being us, today!",
+    "seal": ["Snap", "decorate", "keep!"],
+    "ribbon": ["Fun to snap", "Fun to collect", "Fun to decorate", "Fun together"],
+    "galleryEyebrow": "PICK YOUR KIKOO",
+    "galleryTitle": "Which Kikoo today?",
+    "galleryIntro": "One app, five ways to have fun. Pick what fits your mood today.",
+    "machines": [
+      {"name": "Selfie Challenge", "tag": "No more pose dilemmas", "description": "Try more than 500 poses and 60 expressions. Follow along, take on challenges, and collect medals.", "alt": "Selfie Challenge app screen showing today's challenge, pose guide, and expression match menu"},
+      {"name": "Stamp Story", "tag": "Put the things you love on one page", "description": "Turn yourself, your friends, and even your cat into stickers. Collect favorite moments and make a story of your own.", "alt": "Stamp Story app screen with cutout photo stickers and a collage"},
+      {"name": "Kira Pop", "tag": "Shine on, it's purikura time", "description": "Snap along to music! Make purikura on your phone with makeup, backgrounds, and stickers.", "alt": "Kira Pop app screen showing decorated purikura photos on a pink background with a four-photo frame"},
+      {"name": "Retro Snap", "tag": "A little Y2K nostalgia", "description": "Add stickers and doodles to a wide Y2K frame. Make a memory with a vintage feel.", "alt": "Retro Snap app screen showing a landscape photo decorated with a Y2K logo, stickers, and doodles"},
+      {"name": "Pure Day", "tag": "Four simple photos to treasure", "description": "Soft music, gentle filters, and a line to remember today. Save a little piece of your day in four frames.", "alt": "Pure Day app screen with a vertical pink four-photo strip of friends"}
+    ],
+    "storyEyebrow": "LITTLE MOMENTS, BIG LOVE",
+    "storyTitle": "Our ordinary days\nmake the cutest memories.",
+    "storyIntro": "A great photo is lovely. We also want to keep the moment when we laughed together.",
+    "features": [
+      {"title": "Decorate in your own style", "body": "Tap on stickers, add a doodle, and choose a frame and lighting that feel like you."},
+      {"title": "Take photos together, decorate your own way", "body": "Make a photo with a friend, then decorate it to match your style. Save it to your device or share it yourself with an app you choose."},
+      {"title": "Keep the sparkling moments on video, too", "body": "When a photo isn't quite enough, capture a video. Revisit both the fun of taking it and the decorated result."}
+    ],
+    "photoCaption": "Little moments we kept with Kikoo",
+    "photoAlts": ["Finished landscape photo strip of friends decorated with stickers and doodles", "Pink friendship photo strip decorated with hearts and a ‘Love Kikoo’ message", "Finished four-photo strip decorated with hearts and hand-drawn stickers"],
+    "privacyEyebrow": "A PROMISE TO YOU",
+    "privacyTitle": "Your photos,\non your device.",
+    "privacyBody": "Photos you take, images you import, and videos you decorate: Kikoo does not send or store your images, photos, or videos in the company's or its service providers' cloud. Capture and editing happen on your device.",
+    "privacyNote": "Kikoo uses only the basic information needed to operate the service, such as account identifiers, purchase verification, coin balances and activity, basic usage statistics, and error information. Your chosen external sharing and iCloud Photos are governed by those services' policies.",
+    "privacyLink": "See what information Kikoo uses",
+    "faqEyebrow": "A LITTLE HELP",
+    "faqTitle": "A few quick answers.",
+    "faqs": [
+      {"question": "Are my photos stored on Kikoo's servers?", "answer": "No. Kikoo does not send or store your photos and videos on its servers or in the cloud. Photos are not included in account sync, so save anything you want to keep directly to your photo library."},
+      {"question": "How do I buy coins and paid content?", "answer": "Coin packages and paid content shown in the app are purchased through Apple's in-app purchase system. You can review the price and what is included before purchase. Kikoo does not receive your card number or Apple Account password."},
+      {"question": "I bought coins, but they aren't showing up.", "answer": "Check that you are signed in to the Kikoo account linked to the purchase, then use the app's Check Purchases feature to review the transaction. If the issue continues, contact support before buying the same item again."}
+    ],
+    "closingEyebrow": "HELLO, SELFIE CLUB!",
+    "closingTitle": "Make your day\na little more special with Kikoo.",
+    "closingBody": "Have a question or need a hand? Send us a DM on Instagram and say hello.",
+    "closingLink": "Message us on Instagram"
+  },
+  "privacy": {
+    "title": "Privacy Policy | Kikoo",
+    "description": "Kikoo does not send user images, photos, or videos to the cloud. Learn what basic account, purchase, and coin information is used to operate the service and about your privacy rights.",
+    "eyebrow": "YOUR PHOTOS, YOURS ONLY",
+    "heading": "Your photos stay on your device.\nWe use only the information we need.",
+    "intro": "This policy explains what Kikoo processes on your device and what information it uses to operate the service.",
+    "summaryTitle": "Three promises to start",
+    "summary": ["User images, photos, and videos are not sent to or stored in the company's or its service providers' cloud.", "We process only the basic information needed to operate the service, such as purchase, coin, account, and basic usage information.", "We do not sell photos or use them for advertising or AI training."],
+    "sections": [
+      {"id": "scope", "title": "1. Scope and contact", "body": "<p>This policy applies to the Kikoo Selfie Club (Kikoo) app and this website, provided by Cigncloud (the ‘Company’). For privacy questions or requests to exercise your rights, send a DM to <a href=\"{{contactUrl}}\">{{contactLabel}}</a> on Instagram.</p>"},
+      {"id": "on-device", "title": "2. User images, photos, and videos stay off the cloud", "body": "<p>The Company does not upload, transmit, or store images, photos, videos, camera frames, previews, thumbnails, original stickers, or edited results that you capture or import to the Company's or its service providers' servers or cloud. This includes encrypted and temporary files.</p><p>Capture, face and body recognition, background removal, effects, and editing are processed on your device. Information derived from media during these processes, such as facial or body landmarks and masks, is not sent to the cloud. We do not build a facial recognition database or use media for advertising or AI training.</p><p>Camera and photo library permissions are used for capture, import, and saving that you choose. Microphone permission is used for capture features that need sound. You can change permissions in iOS Settings; features that need a permission may be unavailable if you deny it.</p>"},
+      {"id": "operations", "title": "3. Basic information needed to operate the service", "body": "<p>Not collecting photos does not mean that we collect no information. To provide and operate the service safely, the Company processes the following information as needed:</p>", "rows": [
+        {"name": "Account and authentication", "data": "Account identifier, sign-in provider identifier, email if provided, authentication and account-link status", "purpose": "Sign-in, account verification, and syncing supported service status across devices"},
+        {"name": "Purchase verification", "data": "Apple transaction and product identifiers, transaction verification information, purchase and refund status, and the account linked to a purchase", "purpose": "Verify purchases, prevent duplicate grants, confirm purchases, and reflect refunds"},
+        {"name": "Coins, entitlements, and rewards", "data": "Coin balance and grant, use, and adjustment records; owned content; and challenge and reward progress summaries", "purpose": "Grant and deduct coins, provide content entitlements, and restore rewards and service status"},
+        {"name": "Basic usage and error information", "data": "App and OS versions, device type, app installation identifier, account identifier, feature, screen, and content usage events and settings, error status, and technical information such as IP address during connection", "purpose": "Usage statistics, feature improvement, troubleshooting, security, and abuse prevention"},
+        {"name": "Customer support", "data": "Instagram username and profile, messages, and app, device, or transaction information you provide", "purpose": "Respond to questions, investigate transaction or error reports, and process privacy requests"}
+      ], "after": "<p>Apple processes payments. The Company does not receive your full card number, financial account password, or Apple Account password. Do not attach personal photos or videos, passwords, or complete payment details to a support request.</p><p>We use Google Analytics for Firebase (GA4) for basic in-app usage statistics. Events do not include original photos, videos, audio, or facial landmarks. Statistics may be linked to an app installation identifier or account identifier, so we do not describe all statistics as anonymous. Approximate location information may be derived from an IP address. See the usage information notice under ‘Settings → Usage Information’ in the app.</p>"},
+      {"id": "sharing", "title": "4. External sharing and device backups", "body": "<p>Saving to your photo library, using the system share sheet, or transferring between devices with a friend happens when you choose to do so. These actions do not mean the Company collects or stores your photos in its cloud.</p><p>Whether an exported photo or video is saved to iCloud Photos, a device backup, or a sharing service depends on your settings and that service's policy. Copies kept or reshared by a recipient are managed by that recipient and service.</p><p>The Company does not provide photo cloud backup and cannot restore photos from its servers if they are lost because a device is lost or the app is deleted. Export anything you want to keep to a location of your choice.</p>"},
+      {"id": "providers", "title": "5. Service providers and disclosure", "body": "<p>For the purposes above, the Company uses account and transaction infrastructure, Apple (sign-in, in-app purchases, and transaction verification), Google (basic usage statistics), and Instagram/Meta (customer support by Instagram DM). The website is hosted on GitHub Pages, which may process technical information such as IP addresses to operate the hosting service. This website does not install separate advertising or analytics tracking scripts.</p><p>If you contact us on Instagram, the profile information and messages you send are processed under Instagram/Meta's policies. Please use DM instead of posting account or transaction details in a public comment.</p><p>Non-media service information may be processed by service providers outside your country. Where applicable law requires a separate notice or consent, that process will be followed. Contact us using the privacy contact above with questions about a particular processing activity. User images, photos, and videos are not included in these processing activities.</p><p>We do not sell personal information or provide it for targeted advertising. If disclosure is required by law or a lawful request, it is limited to the required scope.</p><ul class=\"resource-links\"><li><a href=\"https://privacycenter.instagram.com/policy/\">Instagram Privacy Policy ↗</a></li><li><a href=\"https://www.apple.com/legal/privacy/\">Apple Privacy Policy ↗</a></li><li><a href=\"https://firebase.google.com/support/privacy?hl=en\">Google Firebase Privacy and Security ↗</a></li><li><a href=\"https://support.google.com/analytics/answer/11593727?hl=en\">Data collection by Google Analytics ↗</a></li><li><a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement ↗</a></li></ul>"},
+      {"id": "retention", "title": "6. Retention and deletion", "body": "<p>You can manage and delete media on your device and in your photo library. Deleting the app does not automatically delete copies you separately saved to your photo library.</p><p>Account and service information is kept for as long as needed to provide the service. When the purpose is fulfilled or a valid deletion request is processed, information is deleted or de-identified. Limited transaction and accounting records that must be kept by law, and records needed for disputes, security, or abuse prevention, may be retained separately for the required legal basis and period.</p><p>To request deletion, send a DM to <a href=\"{{contactUrl}}\">{{contactLabel}}</a> on Instagram. We will verify the requester and explain what can be deleted and what must be retained by law. Do not send a password or ID photo. Deleting an account does not delete photos from your device, photo library, or external sharing services.</p>"},
+      {"id": "rights", "title": "7. Your rights and information security", "body": "<p>Depending on applicable law, you may request access to, correction or deletion of, or restriction of processing of your personal information, or withdraw consent. Requests may also be made through a legal representative. A request may be limited for information needed to provide the service or retained by law; if so, we will explain why.</p><p>Where applicable law requires additional conditions, such as parental consent for processing a child's personal information, we follow those requirements. A parent or guardian may contact us with questions or request deletion of a child's personal information.</p><p>The Company uses appropriate safeguards, including access restrictions and authenticated communications. Operational information is used only for the purposes described in this policy.</p>"},
+      {"id": "changes", "title": "8. Changes and contact", "body": "<p>If app features or information practices change, we will update this page and its effective date. We will provide notice of changes that materially affect your rights as required by applicable law.</p><p>Privacy contact: Cigncloud · Instagram DM at <a href=\"{{contactUrl}}\">{{contactLabel}}</a><br>Related information: <a href=\"{{supportUrl}}\">Support</a> · <a href=\"{{termsUrl}}\">Terms of Use</a></p>"}
+    ]
+  },
+  "support": {
+    "title": "Support | Kikoo",
+    "description": "Get help with taking and saving photos, purchase verification, coins, accounts, and privacy in the Kikoo app.",
+    "eyebrow": "HERE FOR YOUR LITTLE MOMENTS",
+    "heading": "Hit a little snag?\nKikoo is here to help.",
+    "intro": "From photos and saving to coins, accounts, and privacy, send a DM to @kikioo_selfie_club on Instagram.",
+    "contactLabel": "Contact us on Instagram",
+    "noteTitle": "A few details can help",
+    "note": "Tell us your device model, iOS version, Kikoo version, and when and how the issue happened. Please do not send personal photos or videos, passwords, or card numbers.",
+    "purchasesTitle": "Paid, but your coins aren't showing?",
+    "purchaseSteps": ["Check that you are signed in to the Kikoo account linked to the purchase.", "On the app's purchase screen, use ‘Check Purchases’ to verify the existing transaction and sync your balance again. This does not start a new purchase.", "If the issue continues, contact us with the product name, purchase date, and Apple order number. You do not need to attach a full receipt containing personal information."],
+    "purchaseNote": "Spent coins are not granted again, and restoring a consumable coin purchase through the store does not reissue its balance. Contact us before paying for the same item again.",
+    "refundTitle": "Need a refund?",
+    "refundBody": "You can request a refund for an Apple in-app purchase through Apple's official process. Kikoo can help with delivery errors and transaction checks. Your consumer rights under applicable law remain in effect.",
+    "refundLink": "Request a refund from Apple",
+    "faqTitle": "Frequently asked questions",
+    "faqs": [
+      {"question": "Where are my photos saved?", "answer": "Captured and edited media is processed on your device. Kikoo does not send photos to the Company's cloud, so export anything you want to keep to your photo library."},
+      {"question": "Will my photos move if I change accounts?", "answer": "Photos are not synced with your account. Keep copies on your device. Check supported service information, such as coins and content entitlements, with the same linked account."},
+      {"question": "How can I delete my account or personal information?", "answer": "Send a request using the privacy contact link below. After verifying your account, we will explain what can be deleted and which transaction records must be retained by law. Do not send a password or ID photo."}
+    ],
+    "privacyLink": "Privacy questions and deletion requests",
+    "policyLink": "Read the Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Use | Kikoo",
+    "description": "Terms for using the Kikoo app and its photos and creations, coins, in-app purchases, refunds, and customer support.",
+    "eyebrow": "A FEW THINGS BEFORE WE PLAY",
+    "heading": "A few promises\nfor a happy Kikoo.",
+    "intro": "These terms apply to using Kikoo's capture, editing, challenges, coins, digital content, and related services.",
+    "sections": [
+      {"id": "use", "title": "1. Using the service and your rights", "body": "<p>Cigncloud (the ‘Company’) provides Kikoo Selfie Club (Kikoo). You may use the service for lawful purposes on a device you own or are authorized to use. Please respect your own and others' photos, creations, and portrait rights.</p><p>These terms do not limit consumer rights that cannot be waived under applicable law. If separate consent or a legal representative's consent is required, the relevant law applies; using the app alone does not mean that every consent required by law has been given.</p>"},
+      {"id": "content", "title": "2. Photos and creations", "body": "<p>You or the rightful owner retain rights to photos and creations you make. Do not create or share unlawful content or content that infringes another person's rights.</p><p>The Company does not send or store user images, photos, or videos in the Company's or its service providers' cloud. Photos are not included in account sync, so export anything you want to keep to your device. External sharing and iCloud Photos that you choose to use are governed by those services' policies.</p>"},
+      {"id": "coins", "title": "3. Coins and digital content", "body": "<p>Paid features are optional. You can review the number of coins, price, and usage conditions on the purchase or use screen. Coins are units for designated content and features in the app. Except as required by law or separately stated, they cannot be exchanged for cash, transferred, traded, or used outside the app.</p><p>Coin and entitlement records are managed separately from photos on your device. Supported balances and entitlements may sync when you sign in with the same linked account. Coins that have already been spent are not granted again, and restoring a consumable item through the store alone does not reissue it.</p>"},
+      {"id": "purchases", "title": "4. Purchase checks and refunds", "body": "<p>Payments in the iOS app are made through Apple's in-app purchase system. Check the confirmation screen for the actual price, currency, taxes, and product contents. A purchase authorization or pending transaction is not the same as a completed purchase.</p><p>If delivery is delayed after payment, use ‘Check Purchases’ in the app or contact <a href=\"{{supportUrl}}#purchases\">Support</a>. You can request a refund through <a href=\"https://reportaproblem.apple.com/\">Apple's refund process</a>. The Company also provides support needed to check transactions and resolve delivery errors.</p><p>We do not exclude every refund simply because an item is consumable. Rights under applicable law, including rights related to cancellation of a minor's contract, unauthorized payments, or defective service, take precedence. A confirmed refund or payment reversal may be reflected in a balance or entitlement based on the verified result.</p>"},
+      {"id": "availability", "title": "5. Service availability and changes", "body": "<p>Some features may be limited by your device, operating system, network, or the status of external services. The Company performs maintenance and updates as needed for a stable service and will provide notice of material changes or discontinuation as required by applicable law. This section does not exclude rights or responsibilities protected by law.</p>"},
+      {"id": "privacy", "title": "6. Privacy and account deletion", "body": "<p>Processing of account, transaction, coin, and basic usage information is described in the <a href=\"{{privacyUrl}}\">Privacy Policy</a>. You can request account deletion through Support. The Company will explain the verification process, effects on any remaining balance or entitlements, and information that must be retained by law. Deleting an account does not automatically extinguish rights such as a refund that are protected by law.</p>"},
+      {"id": "contact", "title": "7. Contact", "body": "<p>Questions about the service, transactions, or these terms: Cigncloud · Instagram DM at <a href=\"{{contactUrl}}\">{{contactLabel}}</a><br>See <a href=\"{{supportUrl}}\">Support</a> for purchase checks and privacy request instructions.</p>"}
+    ]
+  }
+}

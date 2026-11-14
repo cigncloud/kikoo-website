@@ -1,6 +1,6 @@
 # 키쿠 웹사이트
 
-앱스토어의 마케팅 URL, 고객지원 URL, 개인정보 처리방침 URL로 사용하는 정적 사이트입니다. 한국어를 기본 언어로 제공합니다. GitHub Pages는 생성된 HTML을 그대로 제공하므로 배포 서버에 Node.js나 별도 빌드 설정이 필요하지 않습니다.
+앱스토어의 마케팅 URL, 고객지원 URL, 개인정보 처리방침 URL로 사용하는 정적 사이트입니다. 한국어를 기본 언어로 제공하며 영어와 일본어 번역을 함께 제공합니다. GitHub Pages는 생성된 HTML을 그대로 제공하므로 배포 서버에 Node.js나 별도 빌드 설정이 필요하지 않습니다.
 
 ## 공개 링크
 
@@ -16,7 +16,7 @@
 ## 편집·미리보기
 
 ```sh
-# 한국어 문구: locales/ko.json
+# 문구: locales/ko.json, locales/en.json, locales/ja.json
 # 디자인: styles.css
 # 운영자·공개 URL·언어 목록: site.config.mjs
 node scripts/build.mjs
@@ -33,16 +33,16 @@ FAQ는 브라우저 기본 `details`/`summary`를 사용합니다. JavaScript, �
 2. `site.config.mjs`의 `locales`에 언어를 추가합니다. 예:
 
    ```js
-   { code: 'en', lang: 'en', ogLocale: 'en_US', label: 'English', path: 'en/' },
-   { code: 'ja', lang: 'ja', ogLocale: 'ja_JP', label: '日本語', path: 'ja/' },
-   { code: 'zh-Hans', lang: 'zh-Hans', ogLocale: 'zh_CN', label: '简体中文', path: 'zh-Hans/' },
+   { code: 'en', lang: 'en', ogLocale: 'en_US', label: 'English', path: 'en/', appStoreUrl: 'https://apps.apple.com/us/app/id6830932635' },
+   { code: 'ja', lang: 'ja', ogLocale: 'ja_JP', label: '日本語', path: 'ja/', appStoreUrl: 'https://apps.apple.com/jp/app/id6830932635' },
+   { code: 'zh-Hans', lang: 'zh-Hans', ogLocale: 'zh_CN', label: '简体中文', path: 'zh-Hans/', appStoreUrl: 'https://apps.apple.com/cn/app/id6830932635' },
    ```
 
 3. `node scripts/build.mjs`를 실행합니다. 번역 키가 누락되거나 목록 길이가 원본과 다르면 빌드가 실패합니다. 각 언어의 네 페이지와 상대 경로, 언어 전환 링크, self-canonical, 상호 `hreflang`, sitemap이 생성됩니다.
 4. 번역한 스크린샷이 있으면 언어 항목의 `screenshots`에 다섯 이미지 이름을 지정할 수 있습니다. 각 이름에 대해 `assets/screenshots/{이름}-480.webp`, `{이름}-720.webp`를 준비합니다. 지정하지 않으면 기존 앱스토어 한국어 스크린샷을 사용합니다.
 5. 새 언어 URL의 HTTP 200, 링크와 레이아웃을 확인하고 공개합니다. 준비 중인 언어를 목록에 먼저 넣지 마세요.
 
-한국어 기본 페이지는 기존 App Store Connect 주소와 호환되는 루트(`/`)에 유지합니다. 언어별 URL을 제공하고 브라우저 언어로 강제 이동하지 않습니다. 현재는 한국어만 활성화되어 있으며 작동하지 않는 언어 선택 항목은 노출하지 않습니다.
+한국어 기본 페이지는 기존 App Store Connect 주소와 호환되는 루트(`/`)에 유지합니다. 영어는 `/en/`, 일본어는 `/ja/`에서 제공하며 브라우저 언어로 강제 이동하지 않습니다. 홈 페이지에는 언어별 App Store 링크와 접근 가능한 App Store 배지를 표시합니다. 한국어 링크는 한국 App Store 주소를 사용하고, 영어와 일본어 링크는 각 스토어 지역의 앱 페이지를 사용합니다.
 
 ## 사진·개인정보 문구 유지 원칙
 
@@ -60,4 +60,4 @@ FAQ는 브라우저 기본 `details`/`summary`를 사용합니다. JavaScript, �
 
 저장소: `cigncloud/kikoo-website`. GitHub Pages의 `main` / `/(root)` 배포를 사용합니다. `main`에 반영한 뒤 Pages 배포 성공과 공개 URL을 확인하세요. 모노레포에서는 `website/`가 별도 Git 서브모듈입니다.
 
-검색 설정으로 canonical, 실제 제공하는 언어만 포함한 hreflang, 절대 경로 OG 이미지, robots.txt, sitemap.xml을 제공합니다. Google Search Console의 URL-prefix 속성은 `https://cigncloud.github.io/kikoo-website/`, 제출할 sitemap은 `https://cigncloud.github.io/kikoo-website/sitemap.xml`입니다. Search Console 소유권 등록은 별도 작업입니다.
+검색 설정으로 canonical, 실제 제공하는 언어만 포함한 hreflang, 절대 경로 OG 이미지, robots.txt, sitemap.xml, JSON-LD 구조화 데이터를 제공합니다. Google Search Console의 URL-prefix 속성은 `https://cigncloud.github.io/kikoo-website/`, 제출할 sitemap은 `https://cigncloud.github.io/kikoo-website/sitemap.xml`입니다. Search Console 소유권 등록은 별도 작업입니다.
