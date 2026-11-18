@@ -1,0 +1,207 @@
+[
+  {
+    "name": "예절샷",
+    "definition": "음식·음료와 최애 포토카드가 한 장면에 보임. 인형·아크스타는 별도 유형.",
+    "photo_types": [
+      "예절샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "jp-kit-04",
+      "jp-kit-05",
+      "jp-kit-10",
+      "jp-fan-cafe-05"
+    ],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [
+      "kr-fandom-03"
+    ],
+    "unknown_date_image_ids": [
+      "kr-cafe-19"
+    ],
+    "status": "인접 팬덤 실제 샘플만 확보"
+  },
+  {
+    "name": "생일카페 방문샷",
+    "definition": "최애 생일카페 방문자의 촬영 결과. 일반 팬 카페·포스터·실내만 있는 사진 제외.",
+    "photo_types": [
+      "생일카페 방문샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "최애 네컷샷",
+    "definition": "팬과 아이돌 프레임을 함께 촬영한 네컷. 보관앨범·촬영 안내 제외.",
+    "photo_types": [
+      "최애 네컷샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "jp-kpop-misamo-04"
+    ],
+    "recent_kpop_image_ids": [
+      "jp-kpop-misamo-04"
+    ],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 케이팝 실제 샘플 확보"
+  },
+  {
+    "name": "생일·컴백 광고 인증샷",
+    "definition": "아티스트 응원광고와 방문자가 함께 보이는 결과. 공연장 배너와 구분.",
+    "photo_types": [
+      "생일·컴백 광고 인증샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [
+      "kr-cafe-20"
+    ],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "성지순례샷",
+    "definition": "아티스트가 방문·촬영한 장소를 팬이 방문한 결과와 장소 근거 확인.",
+    "photo_types": [
+      "성지순례샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "포카·탑꾸 인증샷",
+    "definition": "포토카드를 넣고 스티커·장식으로 꾸민 케이스 완성품. 빈 케이스 제외.",
+    "photo_types": [
+      "포카·탑꾸 인증샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "kr-kpop-toploader-primary-01",
+      "kr-kpop-toploader-primary-02"
+    ],
+    "recent_kpop_image_ids": [
+      "kr-kpop-toploader-primary-01",
+      "kr-kpop-toploader-primary-02"
+    ],
+    "older_image_ids": [
+      "jp-case-08",
+      "jp-case-01"
+    ],
+    "unknown_date_image_ids": [],
+    "status": "최근 케이팝 실제 샘플 확보"
+  },
+  {
+    "name": "응원 활동 인증",
+    "definition": "스트리밍·다운로드 등 참여 기록 화면. 행사 공지만으로 대체하지 않음.",
+    "photo_types": [
+      "응원 활동 인증"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "응원봉 직관샷",
+    "definition": "공연 현장 맥락에서 응원봉을 들고 남긴 사진. 무대만 있는 사진 제외.",
+    "photo_types": [
+      "응원봉 직관샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "jp-kpop-niziu-06"
+    ],
+    "recent_kpop_image_ids": [
+      "jp-kpop-niziu-06"
+    ],
+    "older_image_ids": [
+      "jp-fandomdiary-03"
+    ],
+    "unknown_date_image_ids": [],
+    "status": "최근 케이팝 실제 샘플 확보"
+  },
+  {
+    "name": "드레스코드샷",
+    "definition": "공연 테마에 맞춘 팬 착장과 현장 맥락 확인. 아티스트 본인 패션과 구분.",
+    "photo_types": [
+      "드레스코드샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "jp-fan-snowman-07"
+    ],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "인접 팬덤 실제 샘플만 확보"
+  },
+  {
+    "name": "최애 인형 여행샷",
+    "definition": "최애 인형과 여행지·랜드마크가 함께 보임. 카페·공연장 인형은 별도 유형.",
+    "photo_types": [
+      "최애 인형 여행샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "역조공 수령샷",
+    "definition": "아티스트가 준비한 팬 선물·간식과 수령 맥락 확인. 일반 행사 특전과 구분.",
+    "photo_types": [
+      "역조공 수령샷"
+    ],
+    "required": true,
+    "recent_image_ids": [
+      "kr-kpop-gift-02"
+    ],
+    "recent_kpop_image_ids": [
+      "kr-kpop-gift-02"
+    ],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 케이팝 실제 샘플 확보"
+  },
+  {
+    "name": "손민수 착장샷",
+    "definition": "팬 착장과 최애 원래 착장을 연결하는 근거 확인. 비슷한 옷만으로 판정하지 않음.",
+    "photo_types": [
+      "손민수 착장샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  },
+  {
+    "name": "포카와 투표 인증샷",
+    "definition": "투표 참여 기록과 최애 포토카드가 함께 보이는 사진. 일반 투표 인증 제외.",
+    "photo_types": [
+      "포카와 투표 인증샷"
+    ],
+    "required": true,
+    "recent_image_ids": [],
+    "recent_kpop_image_ids": [],
+    "older_image_ids": [],
+    "unknown_date_image_ids": [],
+    "status": "최근 실제 샘플 미확보"
+  }
+]

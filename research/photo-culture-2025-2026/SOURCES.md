@@ -1,0 +1,145 @@
+# 출처 목록
+
+발행일 미확인은 추정하지 않았다. 매체가 재인용한 이미지의 원게시물은 별도로 추적해야 한다.
+
+- **kr-receipt** · KR · [[Trend A Word #515] 영수증 꼭 챙겨주세요](https://maily.so/trendaword/posts/2nznqxgmzp5)
+  - 발행일: 2026-04-02T21:04:25+09:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-memes** · KR · [📡[X-아카이브] 마케터를 위한 호신술을 붐샤카라카에 맞춰💃](https://maily.so/marsinmarine/posts/mjz6kl3lrwk)
+  - 발행일: 2026-03-30T08:00:11+09:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-receipt-design** · KR · [OIMU FRUITFIELD - OIMU](https://oimu-seoul.com/product/oimu-fruitfield/229/)
+  - 발행일: 미확인 · 작성자: OIMU · 수집 상태: extracted
+- **kr-sandheart** · KR · [올여름 셀피 트렌드, 그녀들이 남기고 간 #모래하트샷 | 더블유 코리아 (W Korea)](https://www.wkorea.com/2023/07/18/그녀들이-남기고-간-모래하트샷/)
+  - 발행일: 2023-07-18T02:00:18+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-fandom** · KR · [[K-덕질의 세계ⓛ] 폼림·영통 팬싸·버블…요즘 '팬덤 문화'가 궁금하다면 - 연예 | 기사 - 더팩트](https://news.tf.co.kr/read/entertain/2073549.htm)
+  - 발행일: 2024-02-05T00:00:03+09:00 · 작성자: 박지윤 · 수집 상태: extracted
+- **kr-cafe** · KR · [LETTER | MEDIA - NEW](https://www.its-new.co.kr/media/letter/letter_detail.aspx?seq=13)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-birthday** · KR · [BBQ 모델 된 광희 축하하다가 “생일 축하한다” 짤 강제 소환해버린 유노윤호 (영상)](https://www.insight.co.kr/news/310144)
+  - 발행일: 2020-10-30T21:33:47+09:00 · 작성자: 지동현 · 수집 상태: extracted
+- **kr-birthday-creator** · KR · [https://creatorscommunity.club/contents/128](https://creatorscommunity.club/contents/128)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-fourcut** · KR · [[공지] 인생네컷 X 최고심 짱들의 만남 EVENT OPEN! : 공지사항](https://lifefourcuts.com/NEWS/?bmode=view&idx=11337612)
+  - 발행일: 2022-05-04T19:37:04+09:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-sparkle** · KR · [‘키라키라’를 위해 태어난 패션 아이템 | 보그 코리아 (Vogue Korea)](https://www.vogue.co.kr/2017/11/14/136952/)
+  - 발행일: 2017-11-14T14:40:31+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-cafeeve** · JP · [【推し活に最適！】Cafe Eveさんに行ってきました！ | No.213 りんり | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/148041/)
+  - 발행일: 2024-06-23T07:56:56+00:00 · 작성자: No.214 りんり · 수집 상태: extracted
+- **jp-kit** · JP · [【名古屋で推し活🎀】ファミクラ併設のカフェ｢FAMILY CLUB STORE KIT｣って？利用方法からオススメの楽しみ方までご紹介☕🩷 | No.221 文月 | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/416766/)
+  - 발행일: 2026-11-16T15:57:40+00:00 · 작성자: No.221 文月 · 수집 상태: extracted
+- **jp-birthday1** · JP · [【推し活】誰でも簡単に！今からお家でできる本人不在の誕生日会！ | No.127 たーこ | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/209418/)
+  - 발행일: 2025-01-09T02:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-birthday2** · JP · [【目指せ可愛いオタク】人生初！本人不在の誕生日会！！ | No.073 ひよこ | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/107969/)
+  - 발행일: 2022-11-30T14:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-birthday3** · JP · [【※現実注意】本人不在の誕生日会の裏側 | No.073 ひよこ | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/107865/)
+  - 발행일: 2022-11-30T14:30:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-birthday4** · JP · [【推し活レポ】ライブ映像鑑賞！#本人不在の誕生日会 | No.100 るるち | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/101532/)
+  - 발행일: 2022-07-27T12:30:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-fandomdiary** · JP · [【現役大学生がリポート！】女子大生の最新「推し活日記」を公開 | エンタメ | non-no web](https://nonno.hpplus.jp/entertainment/post/108239/)
+  - 발행일: 2022-12-12T10:30:00+00:00 · 작성자: nonno web · 수집 상태: extracted
+- **jp-case** · JP · [【推し活】ALL100均の材料で「硬質カードケースデコ」！ 作り方やコツを解説します | No.049 えむ | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/121893/)
+  - 발행일: 2024-01-31T14:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-chekipose** · JP · [【アイドルオタク必見！】ツーショットチェキおすすめポーズ集 | No.157 つん | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/122810/)
+  - 발행일: 2024-02-29T09:07:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-chekideco** · JP · [【文房具屋さん大賞2024受賞】思い出をカラフルに残すならぺんてる｢MATTEHOP(マットホップ)｣🌈🖊️ | No.221 文月 | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/228016/)
+  - 발행일: 2025-05-30T10:00:34+00:00 · 작성자: No.221 文月 · 수집 상태: extracted
+- **jp-nail** · JP · [【推しネイル】量産型ネイルからニュアンスネイルまで他系統4選 | No.157 つん | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/beauty/116022/)
+  - 발행일: 2023-08-13T10:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-cosmedeco** · JP · [【海外トレンド】コスメデコの次はbedazzling♡シールで作るキラキラデコ | 集英社の美容総合メディア『MAQUIA（マキア）』公式サイト](https://maquia.hpplus.jp/blog/me_maquia/122260/)
+  - 발행일: 2026-09-09T18:35:00+09:00 · 작성자: me · 수집 상태: extracted
+- **jp-swatch** · JP · [【SUQQUホリデー2026】ブルベ冬が気になる限定アイテムを全色スウォッチ！ | 集英社の美容総合メディア『MAQUIA（マキア）』公式サイト](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+  - 발행일: 2026-10-17T18:00:00+09:00 · 작성자: HARUNA · 수집 상태: extracted
+- **jp-acsta** · JP · [【プロ伝授】アクスタをスマホで綺麗に撮りたい方必見！“5つのテクニック”と“2つの極意” | アニメ！アニメ！](https://animeanime.jp/article/2022/02/19/67665.html)
+  - 발행일: 2022-02-19T12:30:03+09:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-receipt** · JP · [最新ホットアイテム「レシート写真機」設置！日本で唯一のオリジナルフレーム写真が無料で楽しめる！ | マムズタッチ公式](https://momstouch.co.jp/receipt-photo-machine/)
+  - 발행일: 2024-04-15T12:44:46+00:00 · 작성자: mtadmin · 수집 상태: extracted
+- **jp-heisei** · JP · [【完全無料】FuRyu特設サイトで平成プリが復活❣️上手な撮り方やリアルに仕上げるプリクラ風印刷テクまでご紹介💖 | No.221 文月 | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/336751/)
+  - 발행일: 2026-02-17T16:45:14+00:00 · 작성자: No.221 文月 · 수집 상태: extracted
+- **jp-elevator** · JP · [【エレベータープリ】大行列ができるほど人気！今話題のプリクラ | No.181 みお | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/gourmet/143567/)
+  - 발행일: 2024-06-16T21:00:00+00:00 · 작성자: No.181 みお · 수집 상태: extracted
+- **jp-fourcut** · JP · [【ボイプラ2】人生4カットに行ってきたレポ & おすすめ4カット収納 | No.279 とるる | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/256010/)
+  - 발행일: 2025-06-25T06:40:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-pouch** · JP · [【持ち歩きコスメ】現役女子大学生のポーチの中身を大公開！ | No.310 すずのね | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/beauty/361560/)
+  - 발행일: 2026-05-12T07:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-pouchtravel** · JP · [CUTIE STREET板倉可奈さんの旅メイクポーチの中身を公開！ 機内・ホテル・街歩きに欠かせない愛用コスメは？ | 旅行&おでかけ | non-no web](https://nonno.hpplus.jp/lifestyle/travel/396214/)
+  - 발행일: 2026-09-04T11:00:00+00:00 · 작성자: nonno web · 수집 상태: extracted
+- **kr-cafe-tour** · KR · [이보다 특별한 서울 한류 여행은 없다! 생일카페 투어 | 서울 공식 관광정보 웹사이트](https://korean.visitseoul.net/hallyu/BIRTHDAYCAFE/KONwzx4ps)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-mirror** · KR · [패셔너블하게 거울 셀피 찍는 방법 6 | 더블유 코리아 (W Korea)](https://www.wkorea.com/2024/10/11/패셔너블하게-거울-셀피-찍는-방법-6/)
+  - 발행일: 2024-10-11T07:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-birthday-gifs** · KR · [유병재 생일축하영상/생일축하짤🎂](https://mochaapuccino.tistory.com/218)
+  - 발행일: 2023-08-01T17:00:16+09:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-pouch1** · KR · [#얼루어_언니들의파우치 모델 윤선영 | 얼루어 코리아 (allure Korea)](https://www.allurekorea.com/2018/06/16/얼루어_언니들의파우치-모델-윤선영/)
+  - 발행일: 2018-06-16T02:00:25+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-pouch2** · KR · [뷰티 에디터의 여행용 뷰티 파우치 아이템 | 얼루어 코리아 (allure Korea)](https://www.allurekorea.com/2016/06/13/뷰티-에디터의-여행용-뷰티-파우치-아이템/)
+  - 발행일: 2016-06-12T23:51:02+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-polaroid** · KR · [배현성이 직접 ‘폴꾸’했습니다! 사인 폴라로이드 받을 기회 | 코스모폴리탄 코리아](https://www.cosmopolitan.co.kr/article/1909871)
+  - 발행일: 2026-09-22T17:00:00+09:00 · 작성자: 최아름 · 수집 상태: extracted
+- **jp-tag** · JP · [【保存必須✨】かわいくておしゃれなタグ画の作り方完全ガイド♡ – Oshicoco](https://oshicoco.co.jp/blogs/blog/tag-tsukurikata)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-flatlay** · JP · [アプリもテクニックも不要！綺麗な#置き画くら部 を撮るコツ｜＠BAILA（バイラ）](https://baila.hpplus.jp/blogs/kamiya_erena/33802)
+  - 발행일: 2019-12-31 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-nui-guide** · JP · [https://note.com/makinachang/n/nc5a3bada21b3](https://note.com/makinachang/n/nc5a3bada21b3)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **kr-yejeol** · KR · [https://www.trendref.com/2023/02/blog-post_02.html](https://www.trendref.com/2023/02/blog-post_02.html)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **kr-birthday-origin** · KR · [https://news.nate.com/view/20200612n26626](https://news.nate.com/view/20200612n26626)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **kr-kpop-wide** · KR · [연말 여행 가는 사람? 슬기, 코르티스한테 배우는 '인증샷, 예절샷' 찍는 법 | 코스모폴리탄 코리아](https://www.cosmopolitan.co.kr/article/1893648)
+  - 발행일: 2025-12-16T19:48:44+09:00 · 작성자: 정다은 · 수집 상태: extracted
+- **kr-kpop-gift** · KR · [“아까워서 어떡해”…지드래곤 ‘역조공’ 뭐길래, SNS 인증 세례](https://v.daum.net/v/20260207184838591)
+  - 발행일: 2026-02-07T18:48:00+09:00 · 작성자: 나은정 · 수집 상태: extracted
+- **kr-kpop-toploader** · KR · [포토카드 바인더·탑로더 꾸미기 — 카드와 장식 구분하기 (2026) - all about 스냅스](https://www.snaps.com/blog/photocard-holder-deco-2026/)
+  - 발행일: 2026-10-22T23:07:37+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-kpop-goods** · KR · [2026년 굿즈 트렌드, 포토카드·키링·타투스티커 - 마플 & 만상사 블로그](https://www.marpple.com/kr/blog/2026-goods-trend-photocard-keyring-tattoo-sticker)
+  - 발행일: 2026-07-16T07:50:31.798+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **kr-kpop-vote** · KR · [[투표현장] 최애 아이돌·반려견 사진에 '꾹'…SNS엔 인증샷 물결(종합) | 연합뉴스](https://www.yna.co.kr/view/AKR20250603033001004)
+  - 발행일: 2025-06-03T14:42:48+09:00 · 작성자: 한지은 · 수집 상태: extracted
+- **kr-kpop-dress** · KR · [https://weverse.io/leesungkyoung/notice/39595](https://weverse.io/leesungkyoung/notice/39595)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **kr-kpop-stream** · KR · [https://weverse.io/closeyoureyes/notice/39576?hl=ko](https://weverse.io/closeyoureyes/notice/39576?hl=ko)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **kr-kpop-tour** · KR · [K-POP 아이돌 단골 서울 카페·맛집](https://blog.namanecard.com/kpop-idol-cafes/)
+  - 발행일: 2026-02-22T12:00:00.000Z · 작성자: 미확인 · 수집 상태: extracted
+- **kr-kpop-birthday** · KR · [Just a moment...](https://dukplace.com/ko/magazine/event-run/birthday-cafe-photozone-decoration-guide)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: http_error
+- **jp-kpop-niziu** · JP · [【写真あり】大接近のNiziUライブ参戦レポ！！ | No.291 みどりのワンピース | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/283944/)
+  - 발행일: 2025-10-07T09:55:51+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-kpop-seventeen** · JP · [【ライブレポ】SEVENTEEN WORLD TOUR [NEW_] in JAPAN POP-UP STORE〜東京2日目参戦レポ🩵🤍🤙 | No.317 my | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/274707/)
+  - 발행일: 2025-12-30T13:02:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-kpop-ive** · JP · [【現場レポ】IVEの2ndファンコンサート・IVE SCOUTに行ってきた♥ | No.192 soi | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/233765/)
+  - 발행일: 2025-04-24T07:20:16+00:00 · 작성자: No.193 soi · 수집 상태: extracted
+- **jp-kpop-enhypen** · JP · [【ENHYPEN】WALK THE LINE POPUP STOREに行ってきた! | No.223 桧彩 | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/191896/)
+  - 발행일: 2024-11-10T03:48:37+00:00 · 작성자: No.223 桧彩 · 수집 상태: extracted
+- **jp-kpop-misamo** · JP · [【MISAMO】1st ALBUM『PLAY』リスニングパーティーが最高すぎた！ | No.303 なほ | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/334771/)
+  - 발행일: 2026-02-11T01:00:00+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-fan-snowman** · JP · [【ライブ】”Snow Man Dome Tour 2025-2026 ON”京セラドーム公演を徹底レポ♡魅力・グッズ購入方法・写真の撮り方…♡ | No.236 Aya | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/326189/)
+  - 발행일: 2026-01-17T12:30:16+00:00 · 작성자: No.236 Aya · 수집 상태: extracted
+- **jp-fan-deco-live** · JP · [【初参戦レポ＆ガイド】＝LOVEアリーナツアー2025に行ってきた♡ | No.008 レモン | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/229031/)
+  - 발행일: 2025-03-31T09:02:12+00:00 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-fan-birthday** · JP · [「＃本人不在の誕生日会」開催方法やおすすめスポット – Oshicoco](https://oshicoco.co.jp/blogs/blog/howtohbd)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: extracted
+- **jp-fan-cafe** · JP · [東京推し活カフェ20選♡写真映え・バースデープレートあるかわいいお店](https://popteen.co.jp/media/88466/)
+  - 발행일: 2026-08-11T22:00:05+00:00 · 작성자: メディア編集者 · 수집 상태: extracted
+- **jp-fan-trends** · JP · [村上なずなの「私こそNo.1だと思うコトは？」【MODEL’S TALK】 | 連載| non-no web](https://nonno.hpplus.jp/series/modelstalk/384577/)
+  - 발행일: 2026-08-01T09:00:00+00:00 · 작성자: nonno web · 수집 상태: extracted
+- **kr-gyaru2026** · KR · [[피처링 IN플루언서 IN사이트] 세기말 감성이 왜 또? 2026년에 다시 만난 갸루 트렌드 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2026/06/02/gyaru-trend-marketing-insights-mz-generation/)
+  - 발행일: 2026-06-02T04:40:00+00:00 · 작성자: 피처링 · 수집 상태: extracted
+- **kr-dress2024** · KR · [https://weverse.io/stayc/notice/21558?hl=ko](https://weverse.io/stayc/notice/21558?hl=ko)
+  - 발행일: 미확인 · 작성자: 미확인 · 수집 상태: failed
+- **jp-kpop-epik** · JP · [【IVEカムバック！】IVEの世界観にダイブ！EPIKで自分だけのコラージュを作成しよう | No.192 soi | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/215616/)
+  - 발행일: 2025-02-04T13:27:03+00:00 · 작성자: No.193 soi · 수집 상태: extracted
+- **jp-kpop-reideco** · JP · [【コンサートレポ】IVE初の東京ドーム公演に行ってきた！ | No.192 soi | 大学生エディターズ | non-no web](https://nonno.hpplus.jp/editors/entertainment/175537/)
+  - 발행일: 2024-09-16T06:55:35+00:00 · 작성자: No.193 soi · 수집 상태: extracted
+- **kr-kpop-lotteria** · KR · [롯데리아 × SBS 가요대전 SUMMER 최애 아이돌 예절샷 이벤트](https://www.instagram.com/p/DL4aCBthaXo/)
+  - 발행일: 2025-07-09 · 작성자: 롯데리아 공식 @lotteria_kr · 수집 상태: extracted
+- **kr-birthday2025** · KR · [생일에 보내는 짤 모음 — dayco.mag](https://www.instagram.com/p/DNfBPxGRNWc/)
+  - 발행일: 2025-08-15 · 작성자: dayco.mag · 수집 상태: extracted
+- **kr-birthday2026** · KR · [2026년 1월 생일짤 — 라구툰](https://www.instagram.com/p/DS7NdbfgWbY/)
+  - 발행일: 2025-12-31 · 작성자: neoverave · 수집 상태: extracted
+- **kr-kpop-newsis** · KR · [탑♥나나, 열애 인정 후 동반 포착…생일 카페 방문](https://mobile.newsis.com/view_amp.html?ar_id=NISX20261102_0003851781)
+  - 발행일: 2026-11-02 · 작성자: 이종희 / 뉴시스 · 수집 상태: extracted
+- **kr-kpop-toploader-primary** · KR · [제이포니 · 탑꾸 모음zip — 데코덴 탑로더 실제 완성품](https://www.instagram.com/p/DHvevlTzS2u/)
+  - 발행일: 2025-03-28T11:47:27.000Z · 작성자: jpony.deco · 수집 상태: primary_post_verified
+- **kr-kpop-birthday-visit-primary** · KR · [황민현 2026년 생일카페 방문 후기 — 롱브르378·플로라운지·악센트 아이디](https://m.blog.naver.com/kcll_2010/224374505458)
+  - 발행일: 2026-08-10T23:14:00+09:00 · 작성자: 포댕자몽 · 수집 상태: primary_text_verified_images_unavailable
+- **재사용 출처** · [얼굴과 사용 화장품을 한 장에](https://www.crank-in.net/trend/sns/culture/192765/1) · 2026-10-15 · 伊藤百花 / @momoka_ito1206

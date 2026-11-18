@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-18",
+  "keywords": {
+    "KR": {
+      "candidates": 282,
+      "measured": 258,
+      "unmeasured": 24,
+      "recent_evidence": 50
+    },
+    "JP": {
+      "candidates": 274,
+      "measured": 159,
+      "unmeasured": 115,
+      "recent_evidence": 40
+    }
+  },
+  "images": {
+    "KR": 33,
+    "JP": 103
+  },
+  "images_total": 136,
+  "archived_images": 171,
+  "candidate_images": 344,
+  "downloaded_files": 338,
+  "failed_images": 27,
+  "image_sources": 26,
+  "sample_images_total": 71,
+  "sample_images_kpop": 21,
+  "context_images_total": 65
+}

@@ -1,0 +1,187 @@
+# 수집 한계와 실패 기록
+
+미확보를 검색 0회나 사례 부재로 처리하지 않았다. 아래는 마지막 수집 상태이며 영구적인 접근 불가를 뜻하지 않는다.
+
+## KR 검색 수치 미확보 — 24개
+
+- `최애 인형`: fetch_failed
+- `아이돌 인형`: fetch_failed
+- `인형샷`: fetch_failed
+- `인형 옷`: fetch_failed
+- `생일 광고 인증`: fetch_failed
+- `앨범깡 인증`: fetch_failed
+- `덕메샷`: fetch_failed
+- `응원봉 직관샷`: not_queried
+- `생일카페 방문샷`: not_queried
+- `생일카페 인증샷`: not_queried
+- `생일·컴백 광고 인증샷`: not_queried
+- `최애 인형 여행샷`: not_queried
+- `손민수 착장샷`: not_queried
+- `포카와 투표 인증샷`: not_queried
+- `포카 예절샷`: not_queried
+- `포토카드 예절샷`: not_queried
+- `포카 음식샷`: not_queried
+- `최애 포토카드 음식`: not_queried
+- `최애 네컷샷`: not_queried
+- `드레스코드샷`: not_queried
+- `역조공 수령샷`: not_queried
+- `생일 광고 인증샷`: not_queried
+- `컴백 광고 인증샷`: not_queried
+- `응원 활동 인증`: not_queried
+
+## JP 검색 수치 미확보 — 115개
+
+- `推し活 写真`: no_data
+- `推しがいる生活`: unavailable
+- `推しぬい 写真`: unavailable
+- `トレカ 撮り方`: unavailable
+- `デコトレカ`: unavailable
+- `痛バ 写真`: unavailable
+- `ペンライト 写真`: unavailable
+- `参戦フォト`: unavailable
+- `生誕祭 写真`: no_data
+- `センイルカフェ`: unavailable
+- `カップホルダーイベント`: unavailable
+- `誕生日会 推し`: unavailable
+- `誕生日 加工`: no_data
+- `ホテル 祭壇`: unavailable
+- `センイルケーキ`: unavailable
+- `レシート写真`: no_data
+- `レシート写真機`: unavailable
+- `レシートプリクラ`: unavailable
+- `レシートフォト`: unavailable
+- `レシート風加工`: unavailable
+- `レシート風`: unavailable
+- `認証ショット`: unavailable
+- `開封写真`: unavailable
+- `お迎え報告`: unavailable
+- `投票証明書`: unavailable
+- `鏡越しショット`: unavailable
+- `鏡越し自撮り`: unavailable
+- `セルカ ポーズ`: unavailable
+- `他撮り風`: unavailable
+- `0.5 自撮り`: unavailable
+- `広角フォト`: unavailable
+- `ほっぺハート`: unavailable
+- `砂ハート`: unavailable
+- `友達 写真 ポーズ`: unavailable
+- `全身写真`: unavailable
+- `OOTD`: unavailable
+- `コーデ写真`: unavailable
+- `韓国プリ`: unavailable
+- `4カットフォト`: unavailable
+- `4カット`: unavailable
+- `チェキ飯`: unavailable
+- `チェキ旅`: unavailable
+- `チェキ撮影`: unavailable
+- `ネップリ 推し`: unavailable
+- `タグ画`: no_data
+- `セルカデー`: no_data
+- `コスメデコ`: no_data
+- `コスメデコレーション`: unavailable
+- `デココスメ`: unavailable
+- `コスメ購入品`: unavailable
+- `スウォッチ 撮り方`: unavailable
+- `リップ 組み合わせ`: unavailable
+- `平成コスメ`: unavailable
+- `カフェフォト`: unavailable
+- `卒業フォト`: unavailable
+- `手元くら部`: unavailable
+- `ストーリー 加工`: unavailable
+- `動画デコ`: unavailable
+- `自撮り動画`: unavailable
+- `推し動画`: unavailable
+- `デコ動画`: unavailable
+- `スマホデコ`: unavailable
+- `推し活 フォト`: unavailable
+- `KPOP 推し活`: unavailable
+- `KPOP トレカ 撮り方`: unavailable
+- `トレカ カフェ`: unavailable
+- `推しとカフェ`: unavailable
+- `センイルイベント`: unavailable
+- `参戦服 KPOP`: unavailable
+- `ライブコーデ`: unavailable
+- `ライブ 写真 撮り方`: fetch_failed
+- `ペンライト 撮り方`: unavailable
+- `ペンライト デコ`: unavailable
+- `ペンライトアクセサリー`: unavailable
+- `チケット 写真`: unavailable
+- `チケット 収納`: fetch_failed
+- `ライブ前 ライブ後`: unavailable
+- `オタ活プリ`: unavailable
+- `推し活 プリクラ`: fetch_failed
+- `アイドル フレーム`: unavailable
+- `人生4カット`: fetch_failed
+- `人生4カット アイドル`: unavailable
+- `フォトイズム`: unavailable
+- `フォトイズム アイドル`: unavailable
+- `推し活ポーズ`: unavailable
+- `ヨントン ポーズ`: unavailable
+- `ヨントン レポ`: unavailable
+- `サイン会 レポ`: unavailable
+- `ソンミンス`: unavailable
+- `ソンミンス 服`: unavailable
+- `聖地巡礼 KPOP`: unavailable
+- `ぬい撮り ポーズ`: unavailable
+- `アクスタケース`: unavailable
+- `トレカホルダー`: fetch_failed
+- `トレカキーホルダー`: fetch_failed
+- `オタ友 フォト`: fetch_failed
+- `オタ友募集`: unavailable
+- `タグ画 加工`: unavailable
+- `購入品紹介 KPOP`: unavailable
+- `アルバム開封`: fetch_failed
+- `トレカ開封`: unavailable
+- `逆サポート`: unavailable
+- `広告 認証ショット`: unavailable
+- `推し色 メイク`: unavailable
+- `スミン 認証`: unavailable
+- `トレカ ご飯`: not_queried
+- `トレカ カフェ 写真`: not_queried
+- `推し トレカ ご飯`: not_queried
+- `センイルカフェ 写真`: not_queried
+- `ペンライト 参戦フォト`: not_queried
+- `推しぬい 旅行 写真`: not_queried
+- `推し広告 認証ショット`: not_queried
+- `センイル広告 認証ショット`: not_queried
+- `ソンミンス コーデ`: not_queried
+- `ドレスコード KPOP`: not_queried
+
+## 이미지 다운로드 실패 — 27개
+
+- `jp-fandomdiary-01`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/entertainment/post/108239/)
+- `jp-acsta-24`: TimeoutError: The operation was aborted due to timeout · [출처](https://animeanime.jp/article/2022/02/19/67665.html)
+- `jp-acsta-33`: TimeoutError: The operation was aborted due to timeout · [출처](https://animeanime.jp/article/2022/02/19/67665.html)
+- `kr-birthday-gifs-01`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-02`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-03`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-04`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-05`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-06`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-07`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `kr-birthday-gifs-08`: TypeError: fetch failed · [출처](https://mochaapuccino.tistory.com/218)
+- `jp-flatlay-10`: TimeoutError: The operation was aborted due to timeout · [출처](https://baila.hpplus.jp/blogs/kamiya_erena/33802)
+- `jp-kit-14`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/gourmet/416766/)
+- `jp-kit-15`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/gourmet/416766/)
+- `jp-swatch-01`: TimeoutError: The operation was aborted due to timeout · [출처](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+- `jp-swatch-02`: TimeoutError: The operation was aborted due to timeout · [출처](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+- `jp-swatch-03`: TimeoutError: The operation was aborted due to timeout · [출처](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+- `jp-swatch-05`: TimeoutError: The operation was aborted due to timeout · [출처](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+- `jp-swatch-06`: TimeoutError: The operation was aborted due to timeout · [출처](https://maquia.hpplus.jp/blog/haruna1_maquia/123103/)
+- `jp-heisei-04`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/entertainment/336751/)
+- `jp-heisei-08`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/entertainment/336751/)
+- `jp-heisei-12`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/entertainment/336751/)
+- `jp-heisei-13`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/entertainment/336751/)
+- `kr-kpop-wide-03`: TimeoutError: The operation was aborted due to timeout · [출처](https://www.cosmopolitan.co.kr/article/1893648)
+- `kr-kpop-wide-04`: TimeoutError: The operation was aborted due to timeout · [출처](https://www.cosmopolitan.co.kr/article/1893648)
+- `kr-kpop-wide-07`: TimeoutError: The operation was aborted due to timeout · [출처](https://www.cosmopolitan.co.kr/article/1893648)
+- `jp-kpop-niziu-01`: TimeoutError: The operation was aborted due to timeout · [출처](https://nonno.hpplus.jp/editors/entertainment/283944/)
+
+## 원문 추출 실패
+
+- `jp-nui-guide`: [원문](https://note.com/makinachang/n/nc5a3bada21b3)
+- `kr-yejeol`: [원문](https://www.trendref.com/2023/02/blog-post_02.html)
+- `kr-birthday-origin`: [원문](https://news.nate.com/view/20200612n26626)
+- `kr-kpop-dress`: [원문](https://weverse.io/leesungkyoung/notice/39595)
+- `kr-kpop-stream`: [원문](https://weverse.io/closeyoureyes/notice/39576?hl=ko)
+- `kr-dress2024`: [원문](https://weverse.io/stayc/notice/21558?hl=ko)
