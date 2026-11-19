@@ -2,7 +2,7 @@ export default {
   origin: 'https://cigncloud.github.io/kikoo-website/',
   brand: 'Kikoo Selfie Club',
   operator: 'Cigncloud',
-  contact: { url: 'https://www.instagram.com/kikioo_selfie_club/', handle: '@kikioo_selfie_club' },
+  contact: { url: 'https://www.instagram.com/kikoo_selfie_club/', handle: '@kikoo_selfie_club' },
   appId: '6830932635',
   updated: '2026-11-14',
   defaultLocale: 'ko',
